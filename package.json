@@ -30,5 +30,13 @@
   "jest": {
     "preset": "react-native"
   },
-  "private": true
+  "private": true,
+  "name": "react-native-empresis-components",
+  "version": "0.0.1",
+  "description": "Componentes para React Native App",
+  "keywords": [
+    "empresis"
+  ],
+  "author": "Fel Gatica - Empresis",
+  "license": "ISC"
 }
