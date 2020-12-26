@@ -15,10 +15,13 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "~0.63.4",
+    "react-native-dropdownalert": "^4.3.0",
     "react-native-gesture-handler": "~1.8.0",
+    "react-native-paper": "^4.5.0",
     "react-native-reanimated": "~1.13.0",
     "react-native-screens": "~2.15.0",
     "react-native-unimodules": "~0.12.0",
+    "react-native-vector-icons": "^7.1.0",
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
@@ -38,5 +41,13 @@
     "empresis"
   ],
   "author": "Fel Gatica - Empresis",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelGatica/react-native-empresis-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FelGatica/react-native-empresis-components/issues"
+  },
+  "homepage": "https://github.com/FelGatica/react-native-empresis-components#readme"
 }
