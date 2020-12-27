@@ -33,7 +33,7 @@
   "jest": {
     "preset": "react-native"
   },
-  "private": true,
+  "private": false,
   "name": "react-native-empresis-components",
   "version": "0.0.1",
   "description": "Componentes para React Native App",
